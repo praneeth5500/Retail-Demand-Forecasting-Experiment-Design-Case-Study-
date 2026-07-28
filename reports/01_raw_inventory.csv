@@ -1,0 +1,21 @@
+Item_Category,Item_Description,rows,total,first_seen,last_seen
+DeptSale,Cigarette,2185,1236872.91,2020-01-01,2025-12-31
+DeptSale,Sales Taxable,2190,752340.7,2020-01-01,2025-12-31
+DeptSale,Beer,2190,623962.11,2020-01-01,2025-12-31
+DeptSale,Tobacco,1581,486436.45,2021-09-01,2025-12-31
+DeptSale,Soda,1566,277125.26,2021-09-02,2025-12-31
+DeptSale,Sales Non-Tax,2186,90967.79,2020-01-01,2025-12-31
+DeptSale,Fountain/Coffee,1075,15784.56,2020-01-01,2025-12-31
+DeptSale,Autoparts,644,8912.5,2020-03-18,2025-12-31
+DeptSale,Cigarette Carton,59,5947.86,2020-04-26,2025-10-16
+FuelSale,REG,1569,10166304.17,2021-09-01,2025-12-31
+FuelSale,PRE,1209,1113359.27,2021-09-01,2025-12-31
+FuelSale,MID,847,489644.34,2021-09-01,2025-12-31
+Item Ctg,Item Desc,1,0.0,,
+Lottery,Scratchoff Sales,2191,3316768.0,2020-01-01,2025-12-31
+Lottery,Lotto Sales,1825,963388.45,2020-01-01,2025-12-31
+OtherIncome,Philip Morris USA Inc,6,8748.18,2020-01-06,2020-10-10
+OtherIncome,Air Vac,50,8246.0,2020-02-06,2025-12-17
+OtherIncome,US Smokeless Tobacco Brand,9,115.45,2020-01-06,2021-07-16
+SalesTax,Sales Tax,2190,239573.53,2020-01-01,2025-12-31
+Tender,Pump Test,1,-11.7,2023-07-07,2023-07-07

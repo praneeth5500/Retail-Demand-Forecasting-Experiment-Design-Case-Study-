@@ -1,0 +1,4 @@
+protocol,MAE,verdict
+A. Random 80/20 split (v1 method),1323.8828204895046,invalid: shuffles time
+"B. Rolling origin, 1-step-ahead",937.6965677790786,"valid protocol, wrong horizon"
+"C. Rolling origin, 30-day recursive",1023.7157248620687,valid

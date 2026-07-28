@@ -1,0 +1,5 @@
+scheme,label,residual_sd,variance_reduction_pct,n
+none,(i) no adjustment,226.71241054291278,1.1102230246251565e-14,336
+dow,(ii) day-of-week fixed effects,199.28083556135084,22.73541404071303,336
+dow_trend_fourier,(iii) day-of-week + trend + Fourier yearly,197.59775730846695,24.035019100272226,336
+cuped,(iv) (iii) + pre-period 28d mean (CUPED),195.94363378986876,25.301526593795508,336
