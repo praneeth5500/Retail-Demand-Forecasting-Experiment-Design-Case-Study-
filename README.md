@@ -3,6 +3,12 @@
 Forecasting daily revenue for a single-location gas station convenience store
 from 4.3 years of point-of-sale transactions, with a rolling-origin backtest
 comparing eight models against four baselines.
+
+**Headline result: the machine learning models lose.** A SARIMA model and an
+eight-week day-of-week average both beat a tuned LightGBM. That result is
+reported rather than buried, and the reasoning is in
+[`REBUILD_GUIDE.md`](REBUILD_GUIDE.md).
+
 ---
 
 ## Results
